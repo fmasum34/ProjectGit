@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B0B5-9568
+
+ Directory of C:\Users\faisa\Desktop\GitProject
+
+07/17/2024  11:49 AM    <DIR>          .
+07/17/2024  11:43 AM    <DIR>          ..
+07/17/2024  11:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  644,912,033,792 bytes free
